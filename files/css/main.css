@@ -12,6 +12,7 @@ body {
 body {
   margin: 0;
   background: url(https://webtinq.nl/conjurecraft/afbeeldingen/61AB4937-29CF-4222-A4C4-F560A31F4ED1.jpeg);
+  background-position: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
